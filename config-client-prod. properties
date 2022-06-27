@@ -1,0 +1,3 @@
+user.role=prod_user
+user.password=pass
+client.secret=${SECRET_VALUE_IN_JENKINS}
